@@ -1,0 +1,17 @@
+C:\Github\egms-rabbitmq\EGMS.RabbitMQ.TestClient\bin\Debug\netcoreapp3.0\EGMS.RabbitMQ.TestClient.exe
+C:\Github\egms-rabbitmq\EGMS.RabbitMQ.TestClient\bin\Debug\netcoreapp3.0\EGMS.RabbitMQ.TestClient.deps.json
+C:\Github\egms-rabbitmq\EGMS.RabbitMQ.TestClient\bin\Debug\netcoreapp3.0\EGMS.RabbitMQ.TestClient.runtimeconfig.json
+C:\Github\egms-rabbitmq\EGMS.RabbitMQ.TestClient\bin\Debug\netcoreapp3.0\EGMS.RabbitMQ.TestClient.runtimeconfig.dev.json
+C:\Github\egms-rabbitmq\EGMS.RabbitMQ.TestClient\bin\Debug\netcoreapp3.0\EGMS.RabbitMQ.TestClient.dll
+C:\Github\egms-rabbitmq\EGMS.RabbitMQ.TestClient\bin\Debug\netcoreapp3.0\EGMS.RabbitMQ.TestClient.pdb
+C:\Github\egms-rabbitmq\EGMS.RabbitMQ.TestClient\bin\Debug\netcoreapp3.0\MessagePack.dll
+C:\Github\egms-rabbitmq\EGMS.RabbitMQ.TestClient\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Github\egms-rabbitmq\EGMS.RabbitMQ.TestClient\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Github\egms-rabbitmq\EGMS.RabbitMQ.TestClient\bin\Debug\netcoreapp3.0\EGMS.RabbitMQ.dll
+C:\Github\egms-rabbitmq\EGMS.RabbitMQ.TestClient\bin\Debug\netcoreapp3.0\EGMS.RabbitMQ.pdb
+C:\Github\egms-rabbitmq\EGMS.RabbitMQ.TestClient\obj\Debug\netcoreapp3.0\EGMS.RabbitMQ.TestClient.csprojAssemblyReference.cache
+C:\Github\egms-rabbitmq\EGMS.RabbitMQ.TestClient\obj\Debug\netcoreapp3.0\EGMS.RabbitMQ.TestClient.AssemblyInfoInputs.cache
+C:\Github\egms-rabbitmq\EGMS.RabbitMQ.TestClient\obj\Debug\netcoreapp3.0\EGMS.RabbitMQ.TestClient.AssemblyInfo.cs
+C:\Github\egms-rabbitmq\EGMS.RabbitMQ.TestClient\obj\Debug\netcoreapp3.0\EGMS.RabbitMQ.TestClient.csproj.CopyComplete
+C:\Github\egms-rabbitmq\EGMS.RabbitMQ.TestClient\obj\Debug\netcoreapp3.0\EGMS.RabbitMQ.TestClient.dll
+C:\Github\egms-rabbitmq\EGMS.RabbitMQ.TestClient\obj\Debug\netcoreapp3.0\EGMS.RabbitMQ.TestClient.pdb

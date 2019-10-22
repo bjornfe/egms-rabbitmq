@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EGMS.RabbitMQ</id>
+    <version>1.0.0</version>
+    <authors>Bjørn F. Esaiassen</authors>
+    <owners>Bjørn F. Esaiassen</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>An EGMS RabbitMQ Abstraction</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="MessagePack" version="1.8.74" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="12.0.2" exclude="Build,Analyzers" />
+        <dependency id="RabbitMQ.Client" version="5.1.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Github\egms-rabbitmq\EGMS.RabbitMQ\bin\Release\netstandard2.0\EGMS.RabbitMQ.dll" target="lib\netstandard2.0\EGMS.RabbitMQ.dll" />
+  </files>
+</package>

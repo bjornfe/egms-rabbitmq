@@ -1,0 +1,8 @@
+C:\Github\egms-rabbitmq\EGMS.RabbitMQ\bin\Debug\netstandard2.0\EGMS.RabbitMQ.deps.json
+C:\Github\egms-rabbitmq\EGMS.RabbitMQ\bin\Debug\netstandard2.0\EGMS.RabbitMQ.dll
+C:\Github\egms-rabbitmq\EGMS.RabbitMQ\obj\Debug\netstandard2.0\EGMS.RabbitMQ.csprojAssemblyReference.cache
+C:\Github\egms-rabbitmq\EGMS.RabbitMQ\obj\Debug\netstandard2.0\EGMS.RabbitMQ.AssemblyInfoInputs.cache
+C:\Github\egms-rabbitmq\EGMS.RabbitMQ\obj\Debug\netstandard2.0\EGMS.RabbitMQ.AssemblyInfo.cs
+C:\Github\egms-rabbitmq\EGMS.RabbitMQ\bin\Debug\netstandard2.0\EGMS.RabbitMQ.pdb
+C:\Github\egms-rabbitmq\EGMS.RabbitMQ\obj\Debug\netstandard2.0\EGMS.RabbitMQ.dll
+C:\Github\egms-rabbitmq\EGMS.RabbitMQ\obj\Debug\netstandard2.0\EGMS.RabbitMQ.pdb
